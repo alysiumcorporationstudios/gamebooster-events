@@ -6,6 +6,7 @@
     "start_date": "2026-08-01",
     "end_date": "2026-08-14",
     "image_url": "https://example.com/booster.png",
+    "link": "https://google.com",
     "status": "ONGOING"
   },
   {
@@ -15,6 +16,7 @@
     "start_date": "2026-08-05",
     "end_date": "2026-08-20",
     "image_url": "https://example.com/lagfixer.png",
+    "link": "https://google.com",
     "status": "ONGOING"
   },
   {
@@ -24,6 +26,7 @@
     "start_date": "2026-08-22",
     "end_date": "2026-10-24",
     "image_url": "https://raw.githubusercontent.com/alysiumcorporationstudios/gamebooster-events/refs/heads/main/MW4-FOB-TOUT-2.jpg",
+    "link": "https://google.com",
     "status": "UPCOMING"
   }
 ]
