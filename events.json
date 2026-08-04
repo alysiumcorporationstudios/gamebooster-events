@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Booster Season Pass",
+    "description": "Boost any game 10 times this week and unlock the Turbo profile.",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-14",
+    "image_url": "https://example.com/booster.png",
+    "status": "ONGOING"
+  },
+  {
+    "id": 2,
+    "title": "Lag Fixer Challenge",
+    "description": "Clean 5 GB of junk to earn the Toxic Dee badge.",
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-20",
+    "image_url": "https://example.com/lagfixer.png",
+    "status": "ONGOING"
+  },
+  {
+    "id": 3,
+    "title": "Weekend RAM Rush",
+    "description": "Double boost power every Saturday and Sunday.",
+    "start_date": "2026-08-22",
+    "end_date": "2026-08-24",
+    "image_url": "https://example.com/ramrush.png",
+    "status": "UPCOMING"
+  }
+]
